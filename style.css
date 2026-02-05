@@ -27,7 +27,7 @@ padding:20px;
 
 .app-header{
 display:flex;
-justify-content:space-between;
+justify-content:center;
 padding:20px;
 }
 
@@ -91,5 +91,17 @@ margin-top:20px;
 margin:5px;
 }
 
-
+.theme-btn {
+    position: fixed;      /* يخليه ثابت مهما عملنا scroll */
+    top: 20px;            /* مسافة من فوق */
+    left: 20px;           /* مسافة من الشمال */
+    padding: 8px 12px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background: var(--accent);
+    color: white;
+    transition: background 0.3s, color 0.3s;
+    z-index: 1000;        /* يتأكد انه فوق كل العناصر */
+}
 
