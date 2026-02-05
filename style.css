@@ -92,9 +92,9 @@ margin:5px;
 }
 
 .theme-btn {
-    position: fixed;      /* يخليه ثابت مهما عملنا scroll */
-    top: 20px;            /* مسافة من فوق */
-    left: 20px;           /* مسافة من الشمال */
+    position: fixed;      
+    top: 20px;            
+    left: 20px;           
     padding: 8px 12px;
     border: none;
     border-radius: 8px;
