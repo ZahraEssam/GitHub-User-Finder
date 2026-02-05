@@ -16,5 +16,6 @@ A simple web app to quickly search for any GitHub user and see their profile det
 4. Switch themes using the 🌙 / ☀️ button
 5. Click on recent searches to quickly search again
 
-**Live Demo:** [https://zahraessam.github.io/GitHub-User-Finder/]  
+**Live Demo:** (Click here)[https://zahraessam.github.io/GitHub-User-Finder/]  
+
 
